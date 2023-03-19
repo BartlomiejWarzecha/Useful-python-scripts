@@ -1,0 +1,53 @@
+{
+    "Main_Page_1": "Main_Page_1",
+    "Username_name_1": "username",
+    "Password_name_1": "password",
+    "Username_1": "Main_Page_1",
+    "Password_1": "Main_Page_1",
+    "Login_Button_1": "loginBtn",
+    "Pages_1": [
+        "Main_Page_1",
+        "https://chat.openai.com/chat"
+    ],
+    "Main_Page_2": "hMain_Page_1",
+    "Username_name_2": "sakeLoginForm:j_username2",
+    "Password_name_2": "sakeLoginForm:j_password2",
+    "Login_Button_2": "sakeLoginForm:loginButton",
+    "Username_2": "Main_Page_1",
+    "Password_2": "Main_Page_1",
+    "Pages_2": [
+        "https://sake.wszib.edu.pl/sake-web/wflow/thesis/thesisList/current",
+        "https://chat.openai.com/chat"
+    ],
+    "Login_button_2": "loginBtn",
+    "Main_Page_3": "https://chomikuj.pl/",
+    "Username_name_3": "Login",
+    "Password_name_3": "Password",
+    "Username_3": "Main_Page_1",
+    "Password_3": "Main_Page_1",
+    "Login_Button_3": "topBar_LoginBtn",
+    "Pages_3": [
+        "Main_Page_1",
+        " Main_Page_1"
+    ],
+    "Main_Page_4": "https://suszi.wszib.edu.pl/suszi-web/",
+    "Username_name_4": "username",
+    "Password_name_4": "password",
+    "Username_4": "Main_Page_1",
+    "Password_4": "Main_Page_1!Main_Page_1",
+    "Login_Button_4": "loginBtn",
+    "Pages_4": [
+        "https://sake.wszib.edu.pl/sake-web/wflow/thesis/thesisList/current",
+        "https://chat.openai.com/chat"
+    ],
+    "Main_Page_5": "https://suszi.wszib.edu.pl/suszi-web/",
+    "Username_name_5": "username",
+    "Password_name_5": "password",
+    "Username_5": "Main_Page_1",
+    "Password_5": "Main_Page_1",
+    "Login_Button_5": "loginBtn",
+    "Pages_5": [
+        "https://sake.wszib.edu.pl/sake-web/wflow/thesis/thesisList/current",
+        "https://chat.openai.com/chat"
+    ]
+}
