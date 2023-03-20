@@ -1,0 +1,10 @@
+{
+    "Main_Page": "mainPage",
+    "Username_name": "Login",
+    "Password_name": "Password",
+    "Login_Button_name": "topBar_LoginBtn",
+    "Username": "f",
+    "Password": "pass1",
+    "Pages": ["pageL"],
+    "Consent_Element_name": "greenButtonCSS" 
+}   
